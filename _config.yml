@@ -46,7 +46,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "wlou@infor.ecnu.edu.cn"
-  googlescholar: Wen Lou
+  google-scholar: Wen Lou
   github: wenloull
   instagram: wenprawfessor
 #  youtube: lou wen
@@ -65,8 +65,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0002-1770-6734
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -86,7 +85,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "wenloull.github.io"
+url-pretty: "Wen Lou"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
