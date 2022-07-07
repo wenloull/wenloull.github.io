@@ -21,10 +21,13 @@ navbar-links:
   Teaching:
     - Courses:
     - Mentoring:
+  Service:
+    - Events:
+    - Communites:
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://wenloull.github.io"
+  # Author's home: "https://wenloull.github.io"
 
 # --- Logo --- #
 
